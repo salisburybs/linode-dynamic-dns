@@ -33,6 +33,5 @@ for d in api.domain_list():
                 else:
                     print('no changes required')
                 break
-                
         break
         
