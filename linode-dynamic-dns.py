@@ -32,6 +32,7 @@ for d in api.domain_list():
                     print('updated resource')
                 else:
                     print('no changes required')
+                break
                 
         break
         
